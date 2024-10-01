@@ -49,3 +49,7 @@ This project was created to practice front-end development skills and improve pr
 # Conclusion
 This Netflix Landing Page Clone is a practice project aimed at mastering core HTML and CSS concepts. The focus is on learning how to build responsive, visually appealing web pages with clean and structured code.
 
+![fn4](https://github.com/user-attachments/assets/fb1d763d-765d-422a-8b68-5f471309efcb)
+![nf3](https://github.com/user-attachments/assets/dad7cfeb-74fe-4cb7-b155-c5ffd95cfcad)
+![nf2](https://github.com/user-attachments/assets/64c43b94-a4de-458a-a4eb-02cb28ee6f83)
+![netflix clone 1](https://github.com/user-attachments/assets/d10904da-1ed0-4657-ac7f-c10c1404e7ac)
